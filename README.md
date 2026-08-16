@@ -152,6 +152,3 @@ The complete Cloud, Security & IoT Deployment Blueprint is in:
 
 It covers Tasks 9–14: Hybrid architecture, communication protocols, VPC isolation, six network-security objectives, IAM and data protection, IoT connectivity/layers, and concrete threats with mitigations.
 
-## One-repository submission
-
-Submit the URL of this single public GitHub repository. Do not create separate repositories for Part 1 and Part 2.
